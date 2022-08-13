@@ -36,6 +36,8 @@ export function Interests() {
                         <li>"This too shall pass"</li>
                         <li>Power of Meditation</li>
                         <li>Breathe.</li>
+                        <li>Consistency is key.</li>
+                        <li>Small acts compound.</li>
                     </ul>
                 </p>
             </Container>
